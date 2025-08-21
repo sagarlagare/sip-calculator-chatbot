@@ -1,2 +1,2 @@
 # sip-calculator-chatbot
-SIP chatbot to project aum grwoth
+SIP chatbot to project aum growth
